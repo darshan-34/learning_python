@@ -1,2 +1,2 @@
-# learning_python
-These are the python files that i created for hands-on execution while watching python tutorials
+# Introduction to Data Structures
+Diving into Data Structure concepts such as String, List, Tuple, Set, Dictionary..
